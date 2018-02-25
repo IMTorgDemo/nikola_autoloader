@@ -1,0 +1,12 @@
+[Core]
+Name = autoload
+Module = autoload_plugin
+
+[Nikola]
+PluginCategory = Command
+
+[Documentation]
+Author = Jason Beach
+Version = 0.1
+Website = http://plugins.getnikola.com/#autoload
+Description = Automate creation of multiple posts from external files
